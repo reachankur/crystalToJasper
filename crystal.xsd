@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema xmlns="urn:crystal-reports:schemas:report-detail" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="urn:crystal-reports:schemas:report-detail" elementFormDefault="qualified">
 	<!-- the CTReport contains all the other elements -->
 	<xsd:complexType name="CrystalReport">
